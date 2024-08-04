@@ -23,7 +23,7 @@ content:
   - name: podcat
     label: podcast
     type: file
-    path: src/pages/about.md
+    path: src/pages/podcast.md
     fields:
       - { name: layout, type: string, hidden: true, default: layouts/base.njk }
       - { name: title, label: Title, type: string }
